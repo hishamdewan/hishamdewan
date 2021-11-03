@@ -1,4 +1,6 @@
-### Investment professional with a passion for corporate finance and data analysis. Over 7 year investment experience researching a wide variety of industries including technology, ecommerce, cloud services, and SaaS. Proven track record at taking complex information and communicating findings to senior leaders to drive firms forward. 
+### Investment professional with a passion for corporate finance and data analysis. 
+
+I have over 7 year investment experience researching a wide variety of industries including technology, ecommerce, cloud services, and SaaS. Proven track record at taking complex information and communicating findings to senior leaders to drive firms forward. 
 
 This GitHub pages hosts work associated with UC Berkeley Data Analytics Boot Camp. I am an interested in data analysis and data visualization using Python, SQL, Tableau, and R.
 
